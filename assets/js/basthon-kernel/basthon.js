@@ -9,7 +9,7 @@ var Basthon = (function() {
     /**
      * Where to find pyodide.js (private).
      */
-    that._pyodideUrl = "https://cdn.jsdelivr.net/pyodide/v0.15.0/full/pyodide.js";
+    that._pyodideUrl = "https://cdn.jsdelivr.net/pyodide/v0.16.1/full/pyodide.js";
 
     /**
      * Dirname remove basename/filename from url.
